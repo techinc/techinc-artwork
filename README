@@ -1,4 +1,3 @@
-
 Techinc artwork repository
 
 Some svg's need custom fonts:
@@ -6,4 +5,4 @@ Some svg's need custom fonts:
 /usr/share/fonts/truetype/aenigma/mishmash.ttf
 from the ubuntu/debian package ttf-aenigma (warning, over 400 fonts)
 
-
+Stickers use this font http://sourceforge.net/projects/ocr-a-font/
